@@ -1,0 +1,34 @@
+[
+    {
+      "id": "f6dd8194-a9cb-45c5-888f-efe80dd1d519",
+      "name": "Darts 501",
+      "date": "2023-01-23T09:36:47.155Z",
+      "contestants": "Oitsu,Feea,Erttu,Semma",
+      "contestantsPoints": "0,116,117,180",
+      "winner": "Oitsu"
+    },
+    {
+      "id": "62e990ac-c437-4d91-8c89-66067eb42301",
+      "name": "Mökkitikka",
+      "date": "2023-01-23T09:16:09.281Z",
+      "contestants": "Taina,Erika,Terttu",
+      "contestantsPoints": "30,30,2",
+      "winner": "Taina,Erika"
+    },
+    {
+      "id": "5095c8c6-48dc-4c8e-ab89-359167618fea",
+      "name": "Mökkitikka",
+      "date": "2023-01-23T09:13:49.140Z",
+      "contestants": "Parvia,Kliio,Tiio",
+      "contestantsPoints": "50,7,3",
+      "winner": "Parvia"
+    },
+    {
+      "id": "e7312800-f979-47a1-9f4f-c95df27a8700",
+      "name": "Darts 501",
+      "date": "2023-01-23T09:39:15.283Z",
+      "contestants": "Heluna,Cleea",
+      "contestantsPoints": "0,0",
+      "winner": "Heluna,Cleea"
+    }
+  ]
