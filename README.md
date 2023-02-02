@@ -8,5 +8,6 @@ This is a study assignment to learn to use Context, made using TS / React / Mate
 
 ## Setup
 
-To run this project, install it locally using npm:
-npm install & npm start for server and api
+To run this project, install it locally using npm
+
+Terminal: npm start for server and api
